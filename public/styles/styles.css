@@ -1,0 +1,41 @@
+body {
+  margin: auto 0;
+  text-align: center;
+  min-height: 100vh;
+  color: #393e46;
+  background-color: #eeeeee;
+  font-family: 'Arimo', sans-serif;
+}
+
+.nav-link {
+  letter-spacing: 1px;
+  margin-left: 25px;
+}
+
+.hidden-border {
+  border-bottom: 2px solid #eeeeee;
+}
+
+a:hover {
+  color: #222831;
+  border-bottom: 2px solid #d65a31;
+}
+
+.profile-img {
+  margin-top: 25px;
+  border-radius: 50%;
+  width: 30%;
+}
+
+.profile-heading {
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-top: 25px;
+}
+
+.footer {
+  padding-top: 80px;
+}
+
+.footer-text {
+  font-size: 10px;
+}
