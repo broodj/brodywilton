@@ -21,6 +21,8 @@ a:hover {
   border-bottom: 2px solid #d65a31;
 }
 
+/* home page */
+
 .profile-img {
   margin-top: 25px;
   border-radius: 50%;
@@ -38,4 +40,16 @@ a:hover {
 
 .footer-text {
   font-size: 10px;
+}
+
+
+/* about page */
+
+.about-title {
+  margin-top: 50px;
+}
+
+.about-image {
+  border-radius: 10%;
+  margin: 50px 50px 0 0;
 }
