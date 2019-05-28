@@ -28,3 +28,7 @@ app.get('/about', function(req, res){
 app.get('/portfolio', function(req, res){
   res.render('portfolio');
 });
+
+app.get('/contact', function(req, res){
+  res.render('contact');
+});
