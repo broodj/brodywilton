@@ -24,3 +24,7 @@ app.get('/', function(req, res){
 app.get('/about', function(req, res){
   res.render('about');
 });
+
+app.get('/portfolio', function(req, res){
+  res.render('portfolio');
+});
