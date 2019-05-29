@@ -79,6 +79,7 @@ a:hover {
 
 .card {
   margin-top: 15px;
+  border-radius: 0;
 }
 
 .card a {
