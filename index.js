@@ -14,7 +14,7 @@ app.use(express.static("public"));
 
 
 app.listen(process.env.PORT, function(){
-  console.log('Server started on port: ' + port);
+  console.log('Server started on port: ');
 });
 
 app.get('/', function(req, res){
